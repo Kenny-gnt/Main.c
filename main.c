@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
+// Integrantes do grupo:
+// Gisleine Muñoz Ticona - RM 563804
+
 // Função para calcular a sequência de Fibonacci
 void fibonacci() {
     int N;
@@ -125,5 +128,3 @@ int main() {
 
     return 0;
 }
-// Integrantes do grupo:
-// Gisleine Muñoz Ticona - RM 563804
